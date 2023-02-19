@@ -1,6 +1,6 @@
 # criardocker
 <br>
-Utilização prática de microsserviços para a aula de Linux Experience do profesor Denilson Bonnatti
+Utilização prática de microsserviços
 <br><br>
 <h3>Script Linux</h3>
 apt update -y
